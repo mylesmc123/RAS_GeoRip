@@ -15,7 +15,7 @@ https://lwi-aws-s3-hec-ras-models.onrender.com
 
 ### Purpose
 
-The purpose of this repo is take an output list of the s3_model_finder, and use that list to extract the 'best' geometry from each model that has already been downloaded from the s3. The local model's data directory for each region is located at: 
+The purpose of this repo is take an output list of the s3_model_finder ("s3_model_finder\output\Processed Models.json"), and use that list to extract the 'best' geometry from each model that has already been downloaded from the s3. The local model's data directory for each region is located at: 
 "V:\projects\p00542_cpra_2020_lwi_t10\99_import\S3"
 
 To identify the 'best' geometry fo reach model, the following criteria are used:
