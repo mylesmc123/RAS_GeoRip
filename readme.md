@@ -15,13 +15,14 @@ https://lwi-aws-s3-hec-ras-models.onrender.com
 
 ### Purpose
 
-The purpose of this repo is take an output list of the s3_model_finder ("s3_model_finder\output\Processed Models.json"), and use that list to extract the 'best' geometry from each model that has already been downloaded from the s3. The local model's data directory for each region is located at: 
+The purpose of this repo is take an output list of the s3_model_finder ("s3_model_finder\output\Processed Models.json"), and use that list, and append in additional models locally extracted from .zip. After the list of models is finalized, extract the 'best' geometry from each model that has already been downloaded from the s3. The local model's data directory for each region is located at: 
 "V:\projects\p00542_cpra_2020_lwi_t10\99_import\S3"
 
 To identify the 'best' geometry fo reach model, the following criteria are used:
 
-    1.  Check the highest plan number's geometry ##.
+    1.  Check the highest geometry ##.
     2.  Check the geometry used in the highest plan ##.
     3.  Pull descriptions from each g file.
+    4.  For each plan, pull description and which g file is used.
 
 After a best g## is determined, the structures within the geometry will be extracted and merged in to the Coast-Wide RAS model's geometry.
