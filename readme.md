@@ -34,7 +34,8 @@ Based on preliminary findings from the georip notebook a data request was made t
 1.	Review spreadsheet of model inventory to ensure all your models are there.
 2.	Fill in Column J to specify the best geometry file number (Ex: g.01).
 
-The spreadsheet sent is: "./model_list.xlsx"
+The spreadsheet sent is: "./model_list.xlsx".
+
 The memo data request sent is "./Data Request to Regions.docx"
 
 Once it has been returned, we will have a final list of models and geometry files to use for the next steps:
