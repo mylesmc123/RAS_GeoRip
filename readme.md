@@ -25,4 +25,21 @@ To identify the 'best' geometry fo reach model, the following criteria are used:
     3.  Pull descriptions from each g file.
     4.  For each plan, pull description and which g file is used.
 
-After a best g## is determined, the structures within the geometry will be extracted and merged in to the Coast-Wide RAS model's geometry.
+After a best g## is determined, the structures within the geometry files will be extracted and mapped. Once structure locations are reviewed, they will be merged in to the Coast-Wide RAS model's geometry file.
+
+## Request to Regions (9/1/2023)
+
+Based on preliminary findings from the georip notebook a data request was made to the regions to provide the following data:
+
+1.	Review spreadsheet of model inventory to ensure all your models are there.
+2.	Fill in Column J to specify the best geometry file number (Ex: g.01).
+
+The spreadsheet sent is: "./model_list.xlsx"
+
+Once it has been returned, we will have a final list of models and geometry files to use for the next steps:
+
+# TODO
+1.  Read each best g file in the returned excel sheet from the regions.
+2.  Get desctiption, and structures from best g files.
+3.  Map structures with descriptions as popups.
+4.  Create merged g file for coast-wide model.
