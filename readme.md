@@ -41,6 +41,7 @@ The memo data request sent is "./Data Request to Regions.docx"
 Once it has been returned, we will have a final list of models and geometry files to use for the next steps:
 
 #### TODO
+
 1.  Read each best g file in the returned excel sheet from the regions.
 2.  Get desctiption, and structures from best g files.
 3.  Map structures with descriptions as popups.
