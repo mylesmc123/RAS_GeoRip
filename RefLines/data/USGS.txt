@@ -1,0 +1,380 @@
+USGS Data Retrieval: Instantaneous
+Station Name=10_08041300
+Stream Name=
+Station ID=08041300
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=33_08033500
+Stream Name=
+Station ID=08033500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=41_08040600
+Stream Name=
+Station ID=08040600
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=43_08029500
+Stream Name=
+Station ID=08029500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=40_08028500
+Stream Name=
+Station ID=08028500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=44_08025500
+Stream Name=
+Station ID=08025500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=34_08026000
+Stream Name=
+Station ID=08026000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=30_08028000
+Stream Name=
+Station ID=08028000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=42_08014800
+Stream Name=
+Station ID=08014800
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=31_08013000
+Stream Name=
+Station ID=08013000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=32_07382000
+Stream Name=
+Station ID=07382000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=39_08014500
+Stream Name=
+Station ID=08014500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=38_08013500
+Stream Name=
+Station ID=08013500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=09_08012000
+Stream Name=
+Station ID=08012000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=11_08010000
+Stream Name=
+Station ID=08010000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=22_07382500
+Stream Name=
+Station ID=07382500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=29_07383500
+Stream Name=
+Station ID=07383500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=47_02486000
+Stream Name=
+Station ID=02486000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=46_02487500
+Stream Name=
+Station ID=02487500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=45_02488000
+Stream Name=
+Station ID=02488000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=37_02488500
+Stream Name=
+Station ID=02488500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=36_02489000
+Stream Name=
+Station ID=02489000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=35_02490500
+Stream Name=
+Station ID=02490500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=28_07375280
+Stream Name=
+Station ID=07375280
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=27_07375800
+Stream Name=
+Station ID=07375800
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=26_07377000
+Stream Name=
+Station ID=07377000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=25_02489500
+Stream Name=
+Station ID=02489500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=18_02492360
+Stream Name=
+Station ID=02492360
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=17_02492343
+Stream Name=
+Station ID=02492343
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=23_02492000
+Stream Name=
+Station ID=02492000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=20_07375500
+Stream Name=
+Station ID=07375500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=19_07376500
+Stream Name=
+Station ID=07376500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=14_07376000
+Stream Name=
+Station ID=07376000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=21_07377300
+Stream Name=
+Station ID=07377300
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=13_07378500
+Stream Name=
+Station ID=07378500
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=24_07375960
+Stream Name=
+Station ID=07375960
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=15_02481510
+Stream Name=
+Station ID=02481510
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+
+USGS Data Retrieval: Instantaneous
+Station Name=16_02481000
+Stream Name=
+Station ID=02481000
+Version Name=USGS
+Latitude=
+Longitude=
+Elevation=
+Coord Datum=
+

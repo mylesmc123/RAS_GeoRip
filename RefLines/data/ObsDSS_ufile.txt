@@ -1,0 +1,418 @@
+Observed Time Series=Flow|TS Name=BC Line: 09_08012000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//09_08012000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 10_08041300
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//10_08041300/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 11_08010000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//11_08010000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 13_07378500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//13_07378500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 14_07376000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//14_07376000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 15_02481510
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//15_02481510/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 16_02481000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//16_02481000/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 17_02492343
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//17_02492343/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 18_02492360
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//18_02492360/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 19_07376500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//19_07376500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 20_07375500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//20_07375500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 21_07377300
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//21_07377300/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 22_07382500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//22_07382500/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 23_02492000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//23_02492000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 24_07375960
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//24_07375960/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 25_02489500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//25_02489500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 26_07377000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//26_07377000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 27_07375800
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//27_07375800/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 28_07375280
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//28_07375280/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 29_07383500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//29_07383500/FLOW//15MIN/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 30_08028000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//30_08028000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 31_08013000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//31_08013000/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 32_07382000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//32_07382000/FLOW//15MIN/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 33_08033500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//33_08033500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 34_08026000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//34_08026000/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 35_02490500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//35_02490500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 36_02489000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//36_02489000/FLOW//5MIN/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 37_02488500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//37_02488500/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 38_08013500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//38_08013500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 39_08014500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//39_08014500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 40_08028500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//40_08028500/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 41_08040600
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//41_08040600/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 42_08014800
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//42_08014800/FLOW//15MIN/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 43_08029500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//43_08029500/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 44_08025500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//44_08025500/FLOW//IR-MONTH/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 45_02488000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//45_02488000/FLOW//15MIN/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 46_02487500
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//46_02487500/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
+Observed Time Series=Flow|TS Name=BC Line: 47_02486000
+Observed Time Series=Flow|TS Used=-1
+Observed Time Series=Flow|TS Source=DSS
+Observed Time Series=Flow|TS DSS Filename=.\DSS_Input_Files\lwi_coastwide_usgs_refLines.dss
+Observed Time Series=Flow|TS DSS Pathname=//47_02486000/FLOW//IR-DAY/USGS/
+Observed Time Series=Flow|TS Table Mode=0
+Observed Time Series=Flow|TS Table Use Fixed Start=0
+Observed Time Series=Flow|TS Table Interval=1 Hour
+Observed Time Series=Flow|TS Table Data Units=cfs
+Observed Time Series=Flow|TS Table Data Type=INST-VAL
+Observed Time Series=Flow|TS Constant Units=cfs
